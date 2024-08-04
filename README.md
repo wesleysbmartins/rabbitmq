@@ -1,0 +1,2 @@
+# rabbitmq
+Estudos sobre RabbitMQ.
